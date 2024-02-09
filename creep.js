@@ -1,5 +1,8 @@
 const fs = require("fs");
 const puppeteer = require('puppeteer-extra');
+
+/* Testing out bot evading techniques
+*/
  
 // Add stealth plugin and use defaults 
 const pluginStealth = require('puppeteer-extra-plugin-stealth');
